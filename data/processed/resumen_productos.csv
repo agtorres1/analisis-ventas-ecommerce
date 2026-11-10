@@ -1,0 +1,31 @@
+producto,categoria,ventas,unidades,facturacion,precio_promedio,cantidad_campañas,costo_total,participacion_%,alto_rendimiento
+Lámpara de mesa,Decoración,176,1112,82276.38,72.72,3,15.93,5.61,True
+Auriculares,Electrónica,143,958,74175.58,76.3,3,15.24,5.06,True
+Microondas,Electrodomésticos,135,912,72562.89,79.18,3,14.19,4.95,True
+Cafetera,Electrodomésticos,117,765,59607.31,79.05,3,18.16,4.06,True
+Cuadro decorativo,Decoración,100,726,54297.6,74.58,3,15.85,3.7,True
+Smartphone,Electrónica,101,665,54132.44,81.4,3,15.8,3.69,True
+Secadora,Electrodomésticos,100,696,52115.45,73.34,3,14.59,3.55,True
+Jarrón decorativo,Decoración,100,672,51130.88,74.53,3,13.27,3.49,True
+Batidora,Electrodomésticos,100,672,50979.2,77.54,3,15.28,3.47,True
+Rincón de plantas,Decoración,101,691,50456.45,74.82,3,16.45,3.44,True
+Freidora eléctrica,Electrodomésticos,100,630,50155.15,78.25,3,13.56,3.42,False
+Aspiradora,Electrodomésticos,100,651,50085.86,77.45,3,16.46,3.41,True
+Horno eléctrico,Electrodomésticos,100,633,49913.9,75.69,3,13.89,3.4,False
+Lavadora,Electrodomésticos,100,671,48946.44,74.95,3,11.85,3.34,True
+Proyector,Electrónica,99,626,48187.0,74.68,3,12.47,3.28,False
+Adorno de pared,Decoración,100,633,48093.49,76.1,3,14.05,3.28,False
+SmartWatch,Electrónica,100,620,47836.86,75.54,3,14.5,3.26,False
+Parlantes Bluetooth,Electrónica,98,660,47779.46,73.58,3,13.37,3.26,True
+Televisor,Electrónica,100,632,47038.04,73.82,3,13.13,3.21,False
+Espejo decorativo,Decoración,100,635,46783.31,75.66,3,14.89,3.19,False
+Laptop,Electrónica,100,617,46179.48,75.33,3,15.19,3.15,False
+Consola de videojuegos,Electrónica,99,623,46174.41,76.35,3,12.77,3.15,False
+Elementos de cerámica,Decoración,99,636,45411.09,71.61,3,16.87,3.1,False
+Cámara digital,Electrónica,100,638,45217.96,72.01,3,16.4,3.08,False
+Plancha de vapor,Electrodomésticos,100,632,45196.63,73.04,3,14.12,3.08,False
+Cortinas,Decoración,100,610,44865.03,73.65,3,17.36,3.06,False
+Alfombra,Decoración,100,615,44773.06,74.1,3,17.46,3.05,False
+Tablet,Electrónica,58,374,25856.57,71.38,3,12.72,1.76,False
+Heladera,Electrodomésticos,48,330,25736.8,74.13,3,13.11,1.75,False
+Candelabro,Decoración,24,160,11128.8,74.6,3,14.65,0.76,False
